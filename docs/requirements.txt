@@ -48,7 +48,7 @@ myst-parser==0.18.0
     # via -r requirements.in
 packaging==20.3
     # via sphinx
-pillow==9.2.0
+pillow==10.0.1
     # via -r requirements.in
 pygments==2.5.2
     # via sphinx
